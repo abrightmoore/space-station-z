@@ -1,0 +1,17 @@
+{
+  "individual_event_sounds" : {
+     "events" :{
+	    "bigspace.ssz.endgame": {"sound": "bigspace.ssz.endgame", "volume": 1.0, "pitch": 1.0},
+		"bigspace.ssz.guitar": {"sound": "bigspace.ssz.guitar", "volume": 1.0, "pitch": 1.0},
+		"bigspace.ssz.shipdistresscall": {"sound": "bigspace.ssz.shipdistresscall", "volume": 1.0, "pitch": 1.0},
+		"bigspace.ssz.lifesciencelevel": {"sound": "bigspace.ssz.lifesciencelevel", "volume": 1.0, "pitch": 1.0},
+		"bigspace.ssz.bridgelevel": {"sound": "bigspace.ssz.bridgelevel", "volume": 1.0, "pitch": 1.0},
+		"bigspace.ssz.escapepodshangar": {"sound": "bigspace.ssz.escapepodshangar", "volume": 1.0, "pitch": 1.0},
+		"bigspace.ssz.pleasehelpme": {"sound": "bigspace.ssz.pleasehelpme", "volume": 1.0, "pitch": 1.0},
+		"bigspace.ssz.woop": {"sound": "bigspace.ssz.woop", "volume": 1.0, "pitch": 1.0},
+        "bigspace.ssz.news": {"sound": "bigspace.ssz.news", "volume": 1.0, "pitch": 1.0},
+		"bigspace.ssz.captain": {"sound": "bigspace.ssz.captain", "volume": 1.0, "pitch": 1.0},
+		"bigspace.ssz.cinematic": {"sound": "bigspace.ssz.cinematic", "volume": 1.0, "pitch": 1.0}
+     }
+  }
+}

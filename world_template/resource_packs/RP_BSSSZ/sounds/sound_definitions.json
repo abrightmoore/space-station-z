@@ -1,0 +1,68 @@
+{
+  "bigspace.ssz.endgame": {
+    "category": "music",
+    "sounds": [
+      "sounds/bigspace/ssz/endgame"
+    ]
+  },
+  "bigspace.ssz.shipdistresscall": {
+    "category": "music",
+    "sounds": [
+      "sounds/bigspace/ssz/shipdistresscall"
+    ]
+  },
+  "bigspace.ssz.guitar": {
+    "category": "music",
+    "sounds": [
+      "sounds/bigspace/ssz/guitar"
+    ]
+  },
+  "bigspace.ssz.pleasehelpme": {
+    "category": "music",
+    "sounds": [
+      "sounds/bigspace/ssz/pleasehelpme"
+    ]
+  },
+  "bigspace.ssz.escapepodshangar": {
+    "category": "music",
+    "sounds": [
+      "sounds/bigspace/ssz/escapepodshangar"
+    ]
+  },
+   "bigspace.ssz.bridgelevel": {
+    "category": "music",
+    "sounds": [
+      "sounds/bigspace/ssz/bridgelevel"
+    ]
+  },
+  "bigspace.ssz.lifesciencelevel": {
+    "category": "music",
+    "sounds": [
+      "sounds/bigspace/ssz/lifesciencelevel"
+    ]
+  },
+  "bigspace.ssz.woop": {
+    "category": "music",
+    "sounds": [
+      "sounds/bigspace/ssz/woopwoopwoop"
+    ]
+  },
+  "bigspace.ssz.news": {
+    "category": "music",
+    "sounds": [
+      "sounds/bigspace/ssz/news/news"
+    ]
+  },
+  "bigspace.ssz.captain": {
+    "category": "music",
+    "sounds": [
+      "sounds/bigspace/ssz/captain"
+    ]
+  },
+  "bigspace.ssz.cinematic": {
+    "category": "music",
+    "sounds": [
+      "sounds/bigspace/ssz/cinematics"
+    ]
+  }
+}
